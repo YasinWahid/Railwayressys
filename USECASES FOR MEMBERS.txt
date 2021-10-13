@@ -1,0 +1,29 @@
+RAILWAY RESERVATION SYSTEM
+
+ADNAN HAIDER SP20-BSE-037
+LOGIN IN
+
+MUHAMMAD YASIN WAHIDULLAH
+RESERVE
+
+ZAKIR KHAN SP20-BSE-065
+MANAGE TRAIN
+
+JUNAID KHAN SP20-BSE-066
+CANCEL TICKET
+
+MOHSIN KHAN SP20-BSE-067
+REGISTER
+
+ZEESHAN AZIZ SP20-BSE-071
+BUY TICKET
+
+
+                                                     USE CASES
+
+                                                     REGISTER
+                                                       LOGIN
+                                                   MANAGE TRAIN
+                                                      RESERVE
+                                                    BUY TICKET
+                                                   CANCEL TICKET
