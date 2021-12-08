@@ -1,10 +1,10 @@
                                                                            RAILWAY RESERVATION SYSTEM
 
-Adnan Haider SP20-BSE-037
-LOG IN
-
 Muhammad Yasin Wahidullah SP20-BSE-059
 RESERVE Seat
+
+Adnan Haider SP20-BSE-037
+LOG IN
 
 Zakir Khan SP20-BSE-065
 MANAGE TRAIN
