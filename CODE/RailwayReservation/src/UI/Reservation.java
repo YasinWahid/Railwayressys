@@ -21,10 +21,7 @@ import javax.swing.JOptionPane;
  * @author YASIN WAHID(TMG)
  */
 public class Reservation extends javax.swing.JFrame {
-
-    /**
-     * Creates new form Reservation
-     */
+    
     public Reservation() {
         initComponents();
         Connect();
