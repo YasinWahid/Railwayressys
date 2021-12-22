@@ -10,13 +10,11 @@ import java.sql.DriverManager;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import javax.swing.JOptionPane;
-
 /**
  *
  * @author YASIN WAHID(TMG)
  */
 public class Register extends javax.swing.JFrame {
-
     /**
      * Creates new form Register
      */

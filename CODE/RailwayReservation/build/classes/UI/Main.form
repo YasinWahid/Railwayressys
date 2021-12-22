@@ -234,7 +234,7 @@
             <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
               <Color blue="59" green="ff" red="59" type="rgb"/>
             </Property>
-            <Property name="text" type="java.lang.String" value="View Reservations"/>
+            <Property name="text" type="java.lang.String" value="Booked Ticket"/>
           </Properties>
           <Events>
             <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton4ActionPerformed"/>

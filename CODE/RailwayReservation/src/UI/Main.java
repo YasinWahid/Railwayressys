@@ -101,7 +101,7 @@ public class Main extends javax.swing.JFrame {
         jButton4.setBackground(new java.awt.Color(0, 0, 0));
         jButton4.setFont(new java.awt.Font("Tahoma", 1, 12)); // NOI18N
         jButton4.setForeground(new java.awt.Color(89, 255, 89));
-        jButton4.setText("View Reservations");
+        jButton4.setText("Booked Ticket");
         jButton4.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jButton4ActionPerformed(evt);
@@ -196,7 +196,7 @@ public class Main extends javax.swing.JFrame {
 
     private void jButton4ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton4ActionPerformed
         // TODO add your handling code here:
-          UserReservations ur = new UserReservations();
+          BookTicket ur = new BookTicket();
            this.show();
             ur.setVisible(true);
     }//GEN-LAST:event_jButton4ActionPerformed
